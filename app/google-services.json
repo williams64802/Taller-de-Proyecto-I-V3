@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100351738534",
+    "project_id": "ecogotas-6b90d",
+    "storage_bucket": "ecogotas-6b90d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100351738534:android:5587b31cfb00fc2c9fea67",
+        "android_client_info": {
+          "package_name": "com.example.ecogotas_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT4BuuCAVpW6OGGq9gEbC-NjI9ERQGzXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
